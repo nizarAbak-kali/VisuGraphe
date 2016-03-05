@@ -1,0 +1,26 @@
+->Creer la structure de l'elastique et l'integrer au fonction phisique
+
+->les rapprochement des noeuds doivent devenir quadratique est non lineaire 
+
+->structure possible pour un elastique 
+	    elastique{
+		noeud1;
+	    	noeud2;
+	    	long_min (contraction)
+		long_max (etirement)
+		tension de l'elastique (dynamique)
+		};
+
+->parcours des noeudsA 
+	   ->contraction des elastique entre noeudA est ces successeur/predecesseur
+	   ->calcul de la tension de l'elastique 
+->parcours des noeudsB
+	   ->creation de la liste des noeuds qui ne sont pas lies a noeudB
+	   ->etirement de l'elastique  entre noeudB et ces non-adjacent present dans la lis te .
+	   ->calcul de la tension de l'elastique
+
+-->calcul de la tension globale du systeme 
+	  ->interpretation de cette tension globale ;
+
+--N'hesite pas appeler en cas d'imcomprehension 
+Et surtout au boulot !!!!

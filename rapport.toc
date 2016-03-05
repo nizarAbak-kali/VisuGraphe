@@ -1,0 +1,36 @@
+\contentsline {chapter}{\numberline {1}Introduction}{2}
+\contentsline {section}{\numberline {1.1}Objectif du projet}{2}
+\contentsline {paragraph}{On souhaite visualiser Un graphe en 2D}{2}
+\contentsline {section}{\numberline {1.2}Notre Projet}{2}
+\contentsline {subsection}{\numberline {1.2.1}Presentation du Projet}{2}
+\contentsline {subsubsection}{Outils Utilise}{2}
+\contentsline {paragraph}{Langage utilis\IeC {\'e}}{2}
+\contentsline {paragraph}{Biblioth\IeC {\`e}ques SDL}{2}
+\contentsline {chapter}{\numberline {2}Explication du Code}{3}
+\contentsline {section}{\numberline {2.1}auxi.cpp}{3}
+\contentsline {paragraph}{}{3}
+\contentsline {subsection}{\numberline {2.1.1}Structure utilis\IeC {\'e}}{3}
+\contentsline {subsection}{\numberline {2.1.2}Fonctions utilis\IeC {\'e}}{3}
+\contentsline {subsubsection}{putpixel()}{3}
+\contentsline {subsubsection}{getpixel()}{3}
+\contentsline {subsubsection}{line()}{3}
+\contentsline {subsubsection}{arrow}{4}
+\contentsline {section}{\numberline {2.2}phisic.cpp}{5}
+\contentsline {subsection}{\numberline {2.2.1}Structure utilis\IeC {\'e}}{5}
+\contentsline {paragraph}{droite_t}{5}
+\contentsline {subsection}{\numberline {2.2.2}Fonctions}{5}
+\contentsline {paragraph}{}{5}
+\contentsline {subsection}{\numberline {2.2.3}Explication des fonctions}{5}
+\contentsline {subsubsection}{Les fonctions de calcul de distance}{5}
+\contentsline {subsubsection}{La fonction d'initialisation de la droite}{5}
+\contentsline {paragraph}{}{5}
+\contentsline {section}{\numberline {2.3}visu.cpp}{5}
+\contentsline {subsection}{\numberline {2.3.1}Structure utilis\IeC {\'e}}{5}
+\contentsline {subsection}{\numberline {2.3.2}Fonctions}{5}
+\contentsline {chapter}{\numberline {3}Fonctionnement}{6}
+\contentsline {section}{\numberline {3.1}Mais comment que sa marche}{6}
+\contentsline {section}{\numberline {3.2}Quelques screenshots}{6}
+\contentsline {chapter}{\numberline {4}Conclusion}{7}
+\contentsline {section}{\numberline {4.1}Ce qui a \IeC {\'e}t\IeC {\'e} fait}{7}
+\contentsline {section}{\numberline {4.2}Probleme rencontr\IeC {\'e}}{7}
+\contentsline {section}{\numberline {4.3}Amelioration possible}{7}
